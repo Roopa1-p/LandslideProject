@@ -1,7 +1,5 @@
 # AI for Landslide Susceptibility in Himalayan & Western Ghats #
 
-# Week 1 #
-
 ## Overview ##
 This project focuses on **Landslide Susceptibility Analysis** as part of *Climate Risk and Disaster Management*.  
 The Himalayan region and Western Ghats are highly vulnerable to rainfall-induced and earthquake-triggered landslides.  
